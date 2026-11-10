@@ -2,7 +2,7 @@
 
 [English](README.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Português](README.pt.md) · [Italiano](README.it.md)
 
-[Página del juego](https://rea.com.co/es/applications/space-junkie/) · [Descargas](https://github.com/rea-studio-repos/space-junkie/releases)
+[Página del juego](https://rea.com.co/applications/space-junkie/) · [Descargas](https://github.com/rea-studio-repos/space-junkie/releases)
 
 ![Space Junkie](assets/hero.png)
 
