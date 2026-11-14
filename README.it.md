@@ -2,7 +2,7 @@
 
 [English](README.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Português](README.pt.md) · [Italiano](README.it.md)
 
-[Pagina del gioco](https://rea.com.co/en/applications/space-junkie/) · [Download](https://github.com/rea-studio-repos/space-junkie/releases)
+[Pagina del gioco](https://rea.com.co/en/applications/space-junkie/) · [Download](https://rea.com.co/en/applications/space-junkie/download/)
 
 ![Space Junkie](assets/hero.png)
 
@@ -19,5 +19,9 @@ Gioca con la grafica cartoon rimasterizzata. Per impostazione predefinita il gio
 ![Ondata 1: formazione nemica e indicatore della temperatura del laser](assets/it-game.png)
 
 ![Preferenze: comandi, audio e lingua](assets/it-options.png)
+
+## Download e installazione
+
+Nella pagina ufficiale dei download (in inglese), scegli macOS per Apple Silicon oppure Windows 10/11 (x64 o ARM64). [Download →](https://rea.com.co/en/applications/space-junkie/download/)
 
 Space Junkie 1.3.0 · REA Studio
